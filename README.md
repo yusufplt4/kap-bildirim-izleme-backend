@@ -76,8 +76,15 @@ KAP_HIM_BASE_URL=
 
 Gerçek değerler repository içerisinde tutulmamaktadır.
 
+
 ## İlgili Repository
 
 Frontend uygulaması:
 
 https://github.com/yusufplt4/kap-bildirim-izleme-frontend
+
+## Proje Sunumu
+
+Projenin geliştirme sürecini ve temel özelliklerini içeren sunuma aşağıdaki dosyadan ulaşabilirsiniz:
+
+[Proje Sunumunu Görüntüle](docs/KAP-Bildirim-Izleme-ve-Filtreleme-Modulu-Sunum.pdf)
