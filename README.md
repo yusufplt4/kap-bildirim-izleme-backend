@@ -75,3 +75,9 @@ KAP_HIM_BASE_URL=
 ```
 
 Gerçek değerler repository içerisinde tutulmamaktadır.
+
+## İlgili Repository
+
+Frontend uygulaması:
+
+https://github.com/yusufplt4/kap-bildirim-izleme-frontend
